@@ -10,6 +10,6 @@ Im Gegensatz zu anderen Frameworks setzte Laravel bereits frühzeitig auf die ne
 
 Ich heiße Lars Badke und bin ein freiberuflicher PHP-Programmierer aus Köln. Ich konzipiere und programmiere leidenschaftlich Web- und Mobile-Applikationen mit den neuesten Technologien wie PHP7, Laravel 5, Wordpress, Magento, HTML5, CSS, JavaScript und JQuery. Mehr über mich und meine Leistungen findet Ihr auf meiner Homepage.
 
-- [Laravel Programmier Köln](https://larsbadke.com/laravel-programmierung)
-- [WordPress Programmier Köln](https://larsbadke.com/wordpress-programmierung)
+- [Laravel Programmierung](https://larsbadke.com/laravel-programmierung)
+- [WordPress Programmierung](https://larsbadke.com/wordpress-programmierung)
 
